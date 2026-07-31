@@ -1,0 +1,7 @@
+# Ignore runtime uploads but keep folders
+uploads/*
+!uploads/
+!uploads/.gitkeep
+uploads/profiles/*
+!uploads/profiles/
+!uploads/profiles/.gitkeep
